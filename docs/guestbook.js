@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://CHANGEME.us-south.apigw.appdomain.cloud/guestbook';
+const apiUrl = 'https://portal.eu-de.apigw.cloud.ibm.com/portal?artifactId=6cb3cf08-b6e3-45bd-8c15-69ea1c608387;
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
